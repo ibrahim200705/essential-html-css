@@ -22,7 +22,7 @@ background-color: aqua;}
 }
 
 .hero {
-  background-image: linear-gradient(to top, #7a2cbf9d, transparent), url(../img/fondohero.png);
+  background-image: linear-gradient(to top, #7a2cbf9d, transparent), url(https://www.fundaciontelefonica.com/wp-content/uploads/2021/08/programacion-42-portada-noticia-2560x950-1-1600x593.jpg);
   /* background-image: linear-gradient(to top, #7a2cbf9d, transparent), url(../img/webdeveloper.jpg); */
   background-repeat: no-repeat;
   background-position: center;
